@@ -2,7 +2,6 @@
 
 YT Bookmarker is a Chrome extension that enhances the experience of watching YouTube videos by allowing users to create and manage bookmarks with custom notes at specific timestamps in YouTube videos.
 
-You can find the [published extension in the Chrome Web Store](https://chrome.google.com/webstore/detail/yt-bookmarker/docgcaajjlhikhllnlkfmffciiokggag/related) for installation. It's free to use and only uses local browser storage. No sign-up necessary.
 
 ![YT Bookmarker - No Screenshots](./img/yt-bookmarker_3.png)
 *No Bookmarks*
@@ -22,9 +21,6 @@ You can find the [published extension in the Chrome Web Store](https://chrome.go
 - [Usage](#usage)
 - [Understanding the Code](#understanding-the-code)
 - [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ## Features
 
@@ -79,22 +75,3 @@ In this section, the main logic of the extension in the `popup.js` script is exp
 ## Resources
 
 - [Chrome Developer Documentation](https://developer.chrome.com/docs/extensions/mv3/)
-
-
-## Contributing
-Contributions are always welcome! If you'd like to contribute to this project or have any suggestions, feel free to create a new issue or submit a pull request. Please check the [Code of Conduct](./CODE_OF_CONDUCT.md) first.
-
-To submit a pull request, follow these steps:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Create a new Pull Request
-
-## License
-
-This project is open-source and available under the [MIT License](./LICENSE.md).
-
-## Support
-
-If you have any questions or need help getting started, please open an issue in the repository or contact me on Twitter: @tanja_codes
